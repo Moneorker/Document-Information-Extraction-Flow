@@ -1,0 +1,49 @@
+{
+    "doc_type": "transcript",
+    "fields": [
+      {
+        "name": "validity check",
+        "note": "成绩单是否完整、清晰；是否包含学校名字、盖章或签字；学生信息（姓名、出生日期）是否和护照一致，一共三个是否的回答，不知道的回答unknown即可"
+      },
+      {
+        "name": "institution name",
+        "note": "学校名称"
+      },
+      {
+        "name": "institution country",
+        "note": "学校所在国家"
+      },
+      {
+        "name": "start year",
+        "note": "入学年份或成绩单覆盖的开始年份"
+      },
+      {
+        "name": "end or expected end year",
+        "note": "毕业年份或预计毕业年份"
+      },
+      {
+        "name": "translation",
+        "note": "非英语成绩单，是否有翻译件，如果是英文回答是即可"
+      },
+      {
+        "name": "education level",
+        "note": "学历水平：高中、大学、预科、或职业高中等"
+      },
+      {
+        "name": "qualification type",
+        "note": "课程类型：国家考试 Ijazah，或 A-Level、IB 等国际课程，或者混合,是否包含前面集中类型？如果是直接回答该种类型，如果不是但是你知道是什么，回答哪一种即可"
+      },
+      {
+        "name": "grade",
+        "note": "成绩：高中每一年的平均成绩、总平均成绩、数学成绩、物理成绩、英语成绩"
+      },
+      {
+        "name": "grading scale",
+        "note": "成绩计分规则，如百分制、等级制、GPA 制"
+      },
+      {
+        "name": "passing grade",
+        "note": "及格线或最低通过分数"
+      }
+    ]
+  }
