@@ -6,3 +6,6 @@ venv/
 
 uploads/
 output/
+gh-install*.log
+gh_*.msi
+gh_*.zip
